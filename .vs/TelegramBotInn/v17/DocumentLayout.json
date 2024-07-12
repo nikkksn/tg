@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ssama\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\tg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE4323-F565-4841-A394-17EF397E931F}|..\\..\\..\\TelegramBotInn\\TelegramBotInn.csproj|c:\\users\\ssama\\telegrambotinn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AE4323-F565-4841-A394-17EF397E931F}|..\\..\\..\\TelegramBotInn\\TelegramBotInn.csproj|c:\\users\\ssama\\telegrambotinn\\telegrambotinn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelegramBotInn.csproj",
+              "DocumentMoniker": "C:\\Users\\ssama\\TelegramBotInn\\TelegramBotInn.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\TelegramBotInn\\TelegramBotInn.csproj",
+              "ToolTip": "C:\\Users\\ssama\\TelegramBotInn\\TelegramBotInn.csproj",
+              "RelativeToolTip": "..\\..\\..\\TelegramBotInn\\TelegramBotInn.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-12T18:05:45.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ssama\\TelegramBotInn\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TelegramBotInn\\Program.cs",
+              "ToolTip": "C:\\Users\\ssama\\TelegramBotInn\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\TelegramBotInn\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAFAAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:05:40.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
